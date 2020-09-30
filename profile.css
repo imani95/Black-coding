@@ -1,0 +1,44 @@
+
+.header h1,
+.header .breadcrumb {
+   text-align: center;}
+ h2{ color:rgb(224, 87, 7);} 
+h1{background-color: rgb(243, 239, 239);}
+body{text-align: center}
+
+
+h1 {font-style:times;}
+.book {
+       border-bottom: 1px solid rgb(...);
+}
+h2{text-align: center;}
+.header h3
+.header .breadcrumb{
+    text-align: center;
+}
+ h3{ color:rgb(198, 55, 4);}
+ h4{ color:rgb(120, 4, 198);}}
+
+.book .addbtn,
+.searchBar input[type=submit] {
+--padding: 8px 10px;
+--border-radius: 5px;
+--min-width: 80px;
+--float: right;
+--font-size: 1.1em;
+}
+body {background-color: rgb(249, 231, 209);}
+p {text-decoration-color: rgb(108, 9, 9);}
+
+
+.book .addbtn {
+
+}
+.dropdown:hover .dropdown-menu{display:block}
+.navbar{color:orange ;}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(251, 111, 18)}
+  h1{text-align:center}
+.dropdown:hover .dropdown-menu{display:block} 
+.
+.dropdownhover{font-color: rgb(165, 6, 104)};
